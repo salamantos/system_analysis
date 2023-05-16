@@ -3,7 +3,7 @@
 ### Схема ###
 Лежит в миро: https://miro.com/app/board/uXjVMIWi79I=/?share_link_id=805257193788
 
-![Event Storming](Event Storming.jpeg)
+![Event Storming](Event%20Storming.jpeg)
 
 
 ### Мотивация ###
